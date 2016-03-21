@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<questions>
+
+<!--
+  <question>
+    <level></level>
+    <topic></topic>
+    <text></text>
+    <answer></answer>
+    <answer></answer>
+    <answer></answer>
+    <answer></answer>
+  </question>
+-->
+
+<!--
+  The first <answer> tag of a question, must be the correct answer
+-->
+
+  <question>
+    <level>2</level>
+    <topic>Politik</topic>
+    <text>Wer war der fünfte deutsche Bundespräsident?</text>
+    <answer>Karl Carstens</answer>
+    <answer>Bill Clinton</answer>
+    <answer>Helmut Kohl</answer>
+    <answer>Konrad Adenauer</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Musik</topic>
+    <text>Welche beiden Gribb-Brüder der Popband "The Bee Gees" sind Zwillinge?</text>
+    <answer>Maurice und Robin</answer>
+    <answer>Barry und Maurice</answer>
+    <answer>Robin und Barry</answer>
+    <answer>Andy und Robin</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Sport</topic>
+    <text>Wer gilt als Erfinder des Golfsports?</text>
+    <answer>Schotten</answer>
+    <answer>Briten</answer>
+    <answer>Amerikaner</answer>
+    <answer>Indianer</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Politik</topic>
+    <text>Haile Selassi war bis 1974 Kaiser von ...?</text>
+    <answer>Äthiopien</answer>
+    <answer>Swasiland</answer>
+    <answer>Ghana</answer>
+    <answer>Marokko</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Geographie</topic>
+    <text>Welches Gebiet ist keine Insel?</text>
+    <answer>Nunavut</answer>
+    <answer>Celebes</answer>
+    <answer>Taiwan</answer>
+    <answer>Malta</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Geographie</topic>
+    <text>Wie wird Montana abgekürzt?</text>
+    <answer>MT</answer>
+    <answer>MA</answer>
+    <answer>MN</answer>
+    <answer>MO</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Chemie</topic>
+    <text>Cyanwasserstoff kennt man besser als ...?</text>
+    <answer>Blausäure</answer>
+    <answer>Zyankali</answer>
+    <answer>Rotsäure</answer>
+    <answer>Folsäure</answer>
+  </question>
+
+  <question>
+    <level>1</level>
+    <topic>Sport</topic>
+    <text>Wie lange dauert ein regulärer Boxkampf um den Weltmeistertitel im Schwergewicht?</text>
+    <answer>12 Runden</answer>
+    <answer>9 Runden</answer>
+    <answer>15 Runden</answer>
+    <answer>18 Runden</answer>
+  </question>
+
+  <question>
+    <level>1</level>
+    <topic>Mathematik</topic>
+    <text>Wie nennt man das Resultat einer Multiplikation?</text>
+    <answer>Produkt</answer>
+    <answer>Quotient</answer>
+    <answer>Summe</answer>
+    <answer>Integral</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Sport</topic>
+    <text>Wie viele Mitglieder hat der FC Barcelona?</text>
+    <answer>über 110.000</answer>
+    <answer>20.000</answer>
+    <answer>48.000</answer>
+    <answer>76.000</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Film</topic>
+    <text>Wer spielte Harry Lime in "Der dritte Mann"?</text>
+    <answer>Orson Welles</answer>
+    <answer>Daniel Hillard</answer>
+    <answer>Robert Wagner</answer>
+    <answer>John Landis</answer>
+  </question>
+
+  <question>
+    <level>1</level>
+    <topic>Allgemein</topic>
+    <text>Jemand, der triebhaft Brände legt, ist ein ...?</text>
+    <answer>Pyromane</answer>
+    <answer>Pygmäe</answer>
+    <answer>Pyrotechniker</answer>
+    <answer>Pythagoräer</answer>
+  </question>
+
+  <question>
+    <level>1</level>
+    <topic>Politik</topic>
+    <text>In welcher Stadt befinden sich wichtige Einrichtungen der EU?</text>
+    <answer>Brüssel</answer>
+    <answer>Paris</answer>
+    <answer>Salzburg</answer>
+    <answer>Berlin</answer>
+  </question>
+
+  <question>
+    <level>1</level>
+    <topic>Sport</topic>
+    <text>Welche Karten werden beim Fußball gezeigt?</text>
+    <answer>Rote und gelbe</answer>
+    <answer>Rote und schwarze</answer>
+    <answer>Rote und grüne</answer>
+    <answer>Rote und blaue</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Chemie</topic>
+    <text>Was ist Chlorophyll</text>
+    <answer>Blattgrün</answer>
+    <answer>Blutkörperchen</answer>
+    <answer>Wurzelferment</answer>
+    <answer>Eigelb</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Computer</topic>
+    <text>Was ist ein Slangausdruck für Computerfreak?</text>
+    <answer>Nerd</answer>
+    <answer>Newbie</answer>
+    <answer>Spoiler</answer>
+    <answer>Zombie</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Geographie</topic>
+    <text>Was ist keine dänische Insel?</text>
+    <answer>Spitzbergen</answer>
+    <answer>Lolland</answer>
+    <answer>Seeland</answer>
+    <answer>Bornholm</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Musik</topic>
+    <text>Wer verfasste die deutsche Nationalhymne?</text>
+    <answer>Hoffman von Fallersleben</answer>
+    <answer>Heinrich von Kleist</answer>
+    <answer>Anton von Webern</answer>
+    <answer>Achim von Arnim</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Medizin</topic>
+    <text>Welche Zellen bauen alte Knochensubstanz ab?</text>
+    <answer>Osteoklasten</answer>
+    <answer>Osteoblasten</answer>
+    <answer>Leukozyten</answer>
+    <answer>Ribosomen</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Physik</topic>
+    <text>Wofür steht c?</text>
+    <answer>Vakuumlichtgeschwindigkeit</answer>
+    <answer>Erdbeschleunigung</answer>
+    <answer>Elektronenradius</answer>
+    <answer>Elementarladung</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Mythologie</topic>
+    <text>Wen heiratete Ödipus?</text>
+    <answer>Seine Mutter</answer>
+    <answer>Sich selbst</answer>
+    <answer>Seine Tante</answer>
+    <answer>Sich Schwester</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Wirtschaft</topic>
+    <text>Wie nennt man die Ausweitung der Wirtschaftstätigkeit?</text>
+    <answer>Expansion</answer>
+    <answer>Deflation</answer>
+    <answer>Restriktion</answer>
+    <answer>Export</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Religion</topic>
+    <text>Wer führte nach dem Alten Testament die Israeliten aus der ägyptischen Gefangenschaft?</text>
+    <answer>Moses</answer>
+    <answer>Noah</answer>
+    <answer>Samuel</answer>
+    <answer>Abraham</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Wirtschaft</topic>
+    <text>Wie nennt man den Überschuss auf der Soll- oder Habenseite eines Kontos?</text>
+    <answer>Saldo</answer>
+    <answer>Profit</answer>
+    <answer>Manko</answer>
+    <answer>Debet</answer>
+  </question>
+
+  <question>
+    <level>1</level>
+    <topic>Allgemein</topic>
+    <text>"Last, but not ..."?</text>
+    <answer>least</answer>
+    <answer>first</answer>
+    <answer>second</answer>
+    <answer>bad</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Sport</topic>
+    <text>Wann wurde Deutschland zum zweiten Male Fußballweltmeister?</text>
+    <answer>1974</answer>
+    <answer>1954</answer>
+    <answer>1966</answer>
+    <answer>1990</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Physik</topic>
+    <text>Ein automatischer Temperaturregler ist ein ...?</text>
+    <answer>Thermostat</answer>
+    <answer>Thermometer</answer>
+    <answer>Thermopylen</answer>
+    <answer>Tempomat</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Politik</topic>
+    <text>Das erste Anwerbeabkommen schloss die Bundesrepublik Deutschland am 20.12.1955 mit ...?</text>
+    <answer>Italien</answer>
+    <answer>Portugal</answer>
+    <answer>Spanien</answer>
+    <answer>Jugoslawien</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Sport</topic>
+    <text>Welcher ist kein Sprung im Eiskunstlauf?</text>
+    <answer>Toledo</answer>
+    <answer>Rittberger</answer>
+    <answer>Axel</answer>
+    <answer>Salchow</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Biologie</topic>
+    <text>Was ist ein Kaiman?</text>
+    <answer>Krokodil</answer>
+    <answer>Schlange</answer>
+    <answer>Vogel</answer>
+    <answer>Wüstenfuchs</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Geographie</topic>
+    <text>Wie heißt die Hauptstadt von Neuseeland?</text>
+    <answer>Wellington</answer>
+    <answer>Auckland</answer>
+    <answer>Canberra</answer>
+    <answer>Sydney</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Geographie</topic>
+    <text>Wie heißt die Hauptstadt von Australien?</text>
+    <answer>Canberra</answer>
+    <answer>Sydney</answer>
+    <answer>Auckland</answer>
+    <answer>Wellington</answer>
+  </question>
+
+  <question>
+    <level>1</level>
+    <topic>Wirtschaft</topic>
+    <text>Der Möbelkonzern IKEA hat seinen Hauptsitz in ...?</text>
+    <answer>Schweden</answer>
+    <answer>Norwegen</answer>
+    <answer>Dänemark</answer>
+    <answer>Deutschland</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Politik</topic>
+    <text>Wie heißt der PKK-Führer, der 1999 in der Türkei zum Tode verurteilt wurde, ohne dass das Urteil vollstreckt wurde?</text>
+    <answer>Abdullah Öcalan</answer>
+    <answer>Aziz Nesin</answer>
+    <answer>Metin Kaplan</answer>
+    <answer>Ali Agca</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Physik</topic>
+    <text>Einen Zerfall pro Sekunde nennt man ein ...?</text>
+    <answer>Becquerel</answer>
+    <answer>Siever</answer>
+    <answer>Rem</answer>
+    <answer>Curie</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Geographie</topic>
+    <text>Wie heißt ein See im Salzkammergut?</text>
+    <answer>Wolfgangsee</answer>
+    <answer>Eduardsee</answer>
+    <answer>Neusiedler See</answer>
+    <answer>Rudolfsee</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Musik</topic>
+    <text>Welches holländische Mädchentrio sang "Trojan Horse"?</text>
+    <answer>Luv</answer>
+    <answer>Lee</answer>
+    <answer>Sturm</answer>
+    <answer>Wind</answer>
+  </question>
+
+  <question>
+    <level>1</level>
+    <topic>Mathematik</topic>
+    <text>Was ist das Ergebnis einer Division?</text>
+    <answer>Quotient</answer>
+    <answer>Produkt</answer>
+    <answer>Summe</answer>
+    <answer>Vektor</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Geographie</topic>
+    <text>Dominica liegt in ...?</text>
+    <answer>der Karibik</answer>
+    <answer>Afrika</answer>
+    <answer>Südamerika</answer>
+    <answer>Nordamerika</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Allgemein</topic>
+    <text>Wie heißt die Kunst der Handschriftendeutung?</text>
+    <answer>Graphologie</answer>
+    <answer>Litterologie</answer>
+    <answer>Litographie</answer>
+    <answer>Graphem</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Religion</topic>
+    <text>In welches Land ging der Dalai-Lama 1959 ins Exil</text>
+    <answer>Indien</answer>
+    <answer>Schweiz</answer>
+    <answer>Argentinien</answer>
+    <answer>Australien</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Musik</topic>
+    <text>Wer ist/war kein Bassist der Musikband "Die Ärzte"?</text>
+    <answer>Andi</answer>
+    <answer>Rod</answer>
+    <answer>Sahnie</answer>
+    <answer>Hagen</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Allgemein</topic>
+    <text>Wer wurde 1997 in Miami ermordet?</text>
+    <answer>Gianni Versace</answer>
+    <answer>Christian Dior</answer>
+    <answer>Yves Saint Laurent</answer>
+    <answer>Giorgio Armani</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Wirtschaft</topic>
+    <text>Welches Land ist der bedeutendste Industriestaat Afrikas?</text>
+    <answer>Südafrika</answer>
+    <answer>Gabun</answer>
+    <answer>Nigeria</answer>
+    <answer>Ägypten</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Biologie</topic>
+    <text>Was steht für schnelle Augenbewegung (englische Abkürzung)?</text>
+    <answer>REM</answer>
+    <answer>RER</answer>
+    <answer>REX</answer>
+    <answer>Millirem</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Chemie</topic>
+    <text>Was ist ein Chalkogen?</text>
+    <answer>Schwefel</answer>
+    <answer>Phosphor</answer>
+    <answer>Chlor</answer>
+    <answer>Arsen</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Religion</topic>
+    <text>Wie heißt ein orthodoxes Kloster in Mittelgriechenland?</text>
+    <answer>Hosios Lukas</answer>
+    <answer>Athos</answer>
+    <answer>Daphni</answer>
+    <answer>Mitilini</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Geographie</topic>
+    <text>Wie viele Provinzen hat die Türkei?</text>
+    <answer>81</answer>
+    <answer>71</answer>
+    <answer>61</answer>
+    <answer>91</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Physik</topic>
+    <text>Wie heißt die SI-Grundeinheit der Zeit?</text>
+    <answer>Sekunde</answer>
+    <answer>Minute</answer>
+    <answer>Stunde</answer>
+    <answer>Millisekunde</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Geographie</topic>
+    <text>Welcher Bundesstaat trat erst 1907 den USA bei?</text>
+    <answer>Oklahoma</answer>
+    <answer>Texas</answer>
+    <answer>Ohio</answer>
+    <answer>Utah</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Chemie</topic>
+    <text>Was ist ein Leichtmetall?</text>
+    <answer>Beryllium</answer>
+    <answer>Eisen</answer>
+    <answer>Kupfer</answer>
+    <answer>Chrom</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Politik</topic>
+    <text>Wo wurde am 6.10.1981 Anwar as-Sadat ermordet?</text>
+    <answer>In Kairo</answer>
+    <answer>In Bagdad</answer>
+    <answer>In Istanbul</answer>
+    <answer>In Genf</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Allgemein</topic>
+    <text>Wer an Ophidiophobie leidet, fürchtet sich vor ...?</text>
+    <answer>Schlangen</answer>
+    <answer>Katzen</answer>
+    <answer>Hunden</answer>
+    <answer>Spinnen</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Geographie</topic>
+    <text>Wie heißt ein Südwind in Ägypten, der große Hitze bis 43° C bringt?</text>
+    <answer>Chamsin</answer>
+    <answer>Schirokko</answer>
+    <answer>Tarim</answer>
+    <answer>Burnus</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Wirtschaft</topic>
+    <text>Wie hieß der wichtigste Chemiebetrieb der DDR?</text>
+    <answer>Leuna</answer>
+    <answer>Piesteritz</answer>
+    <answer>Buna</answer>
+    <answer>Solvay</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Musik</topic>
+    <text>Wer sang das Lied "Weiße Rosen aus Athen"?</text>
+    <answer>Nana Mouskouri</answer>
+    <answer>Udo Jürgens</answer>
+    <answer>Melina Mercouri</answer>
+    <answer>Mireille Mathieu</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Musik</topic>
+    <text>Aus welchem Material waren die ersten Blasinstrumente?</text>
+    <answer>aus Tierhorn</answer>
+    <answer>aus Zuckerrohr</answer>
+    <answer>aus Ton</answer>
+    <answer>aus Holz</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Medizin</topic>
+    <text>Wie nennt man eine Ultraschalluntersuchung?</text>
+    <answer>Sonographie</answer>
+    <answer>Demoskopie</answer>
+    <answer>Tomographie</answer>
+    <answer>Elektrokardiographie (EKG)</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Allgemein</topic>
+    <text>In welcher Stadt kann man das Guggenheim Museum besuchen?</text>
+    <answer>New York</answer>
+    <answer>Amsterdam</answer>
+    <answer>Toronto</answer>
+    <answer>Madrid</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Geographie</topic>
+    <text>An welchem Fluss liegt Rosenheim?</text>
+    <answer>Inn</answer>
+    <answer>Regnitz</answer>
+    <answer>Donau</answer>
+    <answer>Pegnitz</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Physik</topic>
+    <text>Welche Flüssigkeit hat unter gleichen Bedingungen den höchsten Siedpunkt?</text>
+    <answer>Quecksilber</answer>
+    <answer>Wasser</answer>
+    <answer>Ethanol</answer>
+    <answer>Benzol</answer>
+  </question>
+
+  <question>
+    <level>5</level>
+    <topic>Geographie</topic>
+    <text>In welchem Land liegt Cochabamba?</text>
+    <answer>In Bolivien</answer>
+    <answer>In Mexiko</answer>
+    <answer>In Venezuela</answer>
+    <answer>In Paraguay</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Physik</topic>
+    <text>Was gibt man in Tesla an?</text>
+    <answer>magnetische Flussdichte</answer>
+    <answer>magnetische Feldstärke</answer>
+    <answer>elektrischer Widerstand</answer>
+    <answer>elektrische Spannung</answer>
+  </question>
+
+  <question>
+    <level>2</level>
+    <topic>Computer</topic>
+    <text>Wofür steht VPN?</text>
+    <answer>Virtual Private Network</answer>
+    <answer>Virtual Public Network</answer>
+    <answer>Virtual Phone Network</answer>
+    <answer>Visual Phone Network</answer>
+  </question>
+
+  <question>
+    <level>3</level>
+    <topic>Sport</topic>
+    <text>Wer verursachte bei der Fußball-WM 1994 die Stinkefinger-Affäre?</text>
+    <answer>Stefan Effenberg</answer>
+    <answer>Oliver Kahn</answer>
+    <answer>Uli Stein</answer>
+    <answer>Manfred Kaltz</answer>
+  </question>
+
+  <question>
+    <level>4</level>
+    <topic>Geschichte</topic>
+    <text>Ein Braunkohleveredelungswerk der DDR hieß ...?</text>
+    <answer>Schwarzpumpe</answer>
+    <answer>Braun und Edel</answer>
+    <answer>Schwarzkokswerk</answer>
+    <answer>Braunpumpe</answer>
+  </question>
+
+</questions>
+
